@@ -1,5 +1,5 @@
 # a)
-glm = read.csv("GLM (1).csv")
+glm = read.csv("GLM.csv")
 n = length(glm[,1])
 
 library(ggplot2)
