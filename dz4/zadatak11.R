@@ -1,4 +1,4 @@
-data1 = read.csv("GLM (1).csv")
+data1 = read.csv("GLM.csv")
 data2 = read.csv("telefon.csv")
 
 x = data1$Default
